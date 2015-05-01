@@ -1,4 +1,4 @@
-FROM openshift/ruby-20-centos7
+FROM openshift/ruby-20-centos
 
 USER default
 EXPOSE 8080
